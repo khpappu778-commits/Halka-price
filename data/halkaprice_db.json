@@ -1,0 +1,311 @@
+{
+  "users": [
+    {
+      "id": "user-admin",
+      "username": "admin",
+      "password_hash": "$2b$10$6TJc/W8YOPq8wbiA4TVX1O28MUzx/F./U71RbuDbrkOuCgBI08Lg.",
+      "role": "superadmin",
+      "must_change_password": true,
+      "created_at": "2026-10-25T06:41:40.654Z",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Electronics",
+      "name_bn": "ইলেকট্রনিক্স",
+      "slug": "electronics",
+      "status": "active",
+      "sort_order": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "Mobile Accessories",
+      "name_bn": "মোবাইল এক্সেসরিজ",
+      "slug": "mobile-accessories",
+      "status": "active",
+      "sort_order": 2
+    },
+    {
+      "id": "cat-3",
+      "name": "Home & Kitchen",
+      "name_bn": "গৃহস্থালি ও রান্নাঘর",
+      "slug": "home-kitchen",
+      "status": "active",
+      "sort_order": 3
+    },
+    {
+      "id": "cat-4",
+      "name": "Fashion & Bags",
+      "name_bn": "ফ্যাশন ও ব্যাগ",
+      "slug": "fashion",
+      "status": "active",
+      "sort_order": 4
+    },
+    {
+      "id": "cat-5",
+      "name": "Beauty & Personal Care",
+      "name_bn": "বিউটি ও কেয়ার",
+      "slug": "beauty-personal-care",
+      "status": "active",
+      "sort_order": 5
+    },
+    {
+      "id": "cat-6",
+      "name": "Gadgets & Wearables",
+      "name_bn": "গ্যাজেট ও ওয়্যারেবল",
+      "slug": "gadgets",
+      "status": "active",
+      "sort_order": 6
+    },
+    {
+      "id": "cat-7",
+      "name": "Lifestyle",
+      "name_bn": "লাইফস্টাইল",
+      "slug": "lifestyle",
+      "status": "active",
+      "sort_order": 7
+    },
+    {
+      "id": "cat-8",
+      "name": "Other Deals",
+      "name_bn": "অন্যান্য ডিল",
+      "slug": "other-deals",
+      "status": "active",
+      "sort_order": 8
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "Aero TWS Wireless Earbuds with LED Digital Display Charging Case",
+      "title_bn": "এরো টিডব্লিউএস ওয়্যারলেস এয়ারবাডস ডিজিটাল ডিসপ্লে কেস সহ",
+      "slug": "aero-tws-wireless-earbuds-led-display",
+      "short_description": "Hi-Fi stereo sound, Bluetooth 5.3, ultra-low latency, and 30-hour battery life with power bank case.",
+      "full_description": "Upgrade your audio experience with the Aero True Wireless Earbuds. Designed for daily commuters, music lovers, and gamers in Bangladesh. Features active ENC noise reduction, IPX5 water resistance against sweat and rain, ergonomic snug fit, and instant one-step pairing. Compatible with Android, iOS, and PC. Verified budget deal from top-rated Daraz store.",
+      "category_id": "cat-2",
+      "original_price": 1850,
+      "deal_price": 890,
+      "discount_percent": 52,
+      "product_source": "Daraz Bangladesh",
+      "destination_url": "https://www.daraz.com.bd/products/wireless-bluetooth-earbuds-i123456.html",
+      "affiliate_url": "https://www.daraz.com.bd/products/wireless-bluetooth-earbuds-i123456.html?aff_sub=halkaprice",
+      "primary_image": "/src/assets/images/deal_earbuds_1792909911203.jpg",
+      "is_featured": true,
+      "is_hot_deal": true,
+      "status": "published",
+      "is_demo": true,
+      "expires_at": "2026-12-31T23:59:59Z",
+      "tags": [
+        "Audio",
+        "Earbuds",
+        "DarazMall",
+        "Gadget"
+      ],
+      "created_at": "2026-10-25T06:41:40.653Z",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "prod-2",
+      "title": "Velocity X7 Smartwatch with AMOLED Display & Heart Rate Monitor",
+      "title_bn": "ভেলোসিটি এক্স৭ স্মার্টওয়াচ অ্যামোলেড ডিসপ্লে ও হেলথ ট্র্যাকার",
+      "slug": "velocity-x7-smartwatch-amoled-display",
+      "short_description": "1.43-inch vivid AMOLED screen, Bluetooth calling, 100+ workout sports modes, IP68 waterproof.",
+      "full_description": "The Velocity X7 Smartwatch combines premium aesthetics with comprehensive health tracking. Real-time SpO2, heart rate, sleep tracking, and customizable watch faces. Comes with silicone strap and metallic alloy casing. Super lightweight and 7-day battery standby.",
+      "category_id": "cat-6",
+      "original_price": 3800,
+      "deal_price": 1999,
+      "discount_percent": 47,
+      "product_source": "Daraz Bangladesh",
+      "destination_url": "https://www.daraz.com.bd/products/velocity-smartwatch-amoled-i234567.html",
+      "affiliate_url": "https://www.daraz.com.bd/products/velocity-smartwatch-amoled-i234567.html?aff_sub=halkaprice",
+      "primary_image": "/src/assets/images/deal_smartwatch_1792909911488.jpg",
+      "is_featured": true,
+      "is_hot_deal": true,
+      "status": "published",
+      "is_demo": true,
+      "expires_at": "2026-11-30T23:59:59Z",
+      "tags": [
+        "Smartwatch",
+        "Fitness",
+        "DarazDeals",
+        "Wearable"
+      ],
+      "created_at": "2026-10-25T06:41:40.654Z",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "prod-3",
+      "title": "Multi-Function Stainless Steel Countertop Blender & Food Grinder",
+      "title_bn": "স্টেইনলেস স্টিল মাল্টিফাংশন ব্লেন্ডার ও মসলা গ্রাইন্ডার",
+      "slug": "stainless-steel-countertop-blender-grinder",
+      "short_description": "800W high-speed copper motor, tempered glass jar, 4-speed control with pulse mode.",
+      "full_description": "Effortlessly blend fresh juices, smoothies, shakes, and grind dried spices and lentils with this heavy-duty countertop blender. Fitted with 6 sharp surgical-grade stainless steel blades and anti-slip suction feet. A must-have kitchen appliance for Bangladeshi households.",
+      "category_id": "cat-3",
+      "original_price": 4200,
+      "deal_price": 2450,
+      "discount_percent": 42,
+      "product_source": "Daraz Bangladesh",
+      "destination_url": "https://www.daraz.com.bd/products/high-speed-blender-grinder-i345678.html",
+      "affiliate_url": "https://www.daraz.com.bd/products/high-speed-blender-grinder-i345678.html?aff_sub=halkaprice",
+      "primary_image": "/src/assets/images/deal_blender_1792909911929.jpg",
+      "is_featured": true,
+      "is_hot_deal": false,
+      "status": "published",
+      "is_demo": true,
+      "expires_at": null,
+      "tags": [
+        "Home",
+        "Kitchen",
+        "DarazFlashSale"
+      ],
+      "created_at": "2026-10-25T06:41:40.654Z",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "prod-4",
+      "title": "Anti-Theft Water-Resistant Commuter Laptop Backpack with USB Port",
+      "title_bn": "ওয়াটারপ্রুফ অ্যান্টি-থেফট ল্যাপটপ ব্যাকপ্যাক ইউএসবি চার্জিং পোর্ট সহ",
+      "slug": "anti-theft-commuter-laptop-backpack-usb",
+      "short_description": "Dedicated 15.6-inch padded laptop compartment, durable oxford fabric, hidden anti-theft pockets.",
+      "full_description": "Perfect for university students and office commuters in Dhaka and Chittagong. Features breathable cushioned shoulder straps, luggage strap for travel, external USB charging port passthrough, and dual water bottle side pockets.",
+      "category_id": "cat-4",
+      "original_price": 1950,
+      "deal_price": 1150,
+      "discount_percent": 41,
+      "product_source": "Daraz Bangladesh",
+      "destination_url": "https://www.daraz.com.bd/products/commuter-laptop-backpack-i456789.html",
+      "affiliate_url": "https://www.daraz.com.bd/products/commuter-laptop-backpack-i456789.html?aff_sub=halkaprice",
+      "primary_image": "/src/assets/images/deal_backpack_1792909911881.jpg",
+      "is_featured": false,
+      "is_hot_deal": true,
+      "status": "published",
+      "is_demo": true,
+      "expires_at": null,
+      "tags": [
+        "Fashion",
+        "Backpack",
+        "Travel"
+      ],
+      "created_at": "2026-10-25T06:41:40.654Z",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    }
+  ],
+  "product_images": [
+    {
+      "id": "img-1",
+      "product_id": "prod-1",
+      "image_url": "/src/assets/images/deal_earbuds_1792909911203.jpg",
+      "alt_text": "Aero TWS Earbuds Open Case",
+      "sort_order": 1
+    },
+    {
+      "id": "img-2",
+      "product_id": "prod-2",
+      "image_url": "/src/assets/images/deal_smartwatch_1792909911488.jpg",
+      "alt_text": "Velocity X7 Smartwatch Face",
+      "sort_order": 1
+    },
+    {
+      "id": "img-3",
+      "product_id": "prod-3",
+      "image_url": "/src/assets/images/deal_blender_1792909911929.jpg",
+      "alt_text": "Countertop Blender Front Angle",
+      "sort_order": 1
+    },
+    {
+      "id": "img-4",
+      "product_id": "prod-4",
+      "image_url": "/src/assets/images/deal_backpack_1792909911881.jpg",
+      "alt_text": "Laptop Commuter Backpack Front",
+      "sort_order": 1
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "title": "Daraz Super Deals & Flash Discounts - Halka Price Exclusive",
+      "image_url": "/src/assets/images/halka_hero_banner_1792909911008.jpg",
+      "mobile_image_url": "/src/assets/images/halka_hero_banner_1792909911008.jpg",
+      "destination_url": "https://www.daraz.com.bd",
+      "placement": "top_header",
+      "start_at": null,
+      "end_at": null,
+      "is_active": true,
+      "sort_order": 1,
+      "created_at": "2026-10-25T06:41:40.654Z"
+    }
+  ],
+  "ad_placements": [
+    {
+      "id": "ad-1",
+      "placement_key": "homepage_top",
+      "placement_name": "Homepage Top Banner (728x90 / Responsive)",
+      "ad_code": "<!-- Adsterra 728x90 Top Banner Slot -->\n<div class=\"adsterra-banner flex items-center justify-center p-3 text-xs text-slate-400 bg-slate-50 border border-dashed border-slate-300 rounded-lg\">\n  <span>Adsterra Top Banner Slot (728x90) — Active in Production</span>\n</div>",
+      "is_enabled": true,
+      "sort_order": 1,
+      "device_target": "all",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "ad-2",
+      "placement_key": "homepage_middle",
+      "placement_name": "Homepage Between Product Sections (468x60 / Responsive)",
+      "ad_code": "<!-- Adsterra Middle Section Banner Slot -->\n<div class=\"adsterra-banner flex items-center justify-center p-3 text-xs text-slate-400 bg-slate-50 border border-dashed border-slate-300 rounded-lg\">\n  <span>Adsterra In-Feed Product Ad Slot — Configured via Admin</span>\n</div>",
+      "is_enabled": true,
+      "sort_order": 2,
+      "device_target": "all",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "ad-3",
+      "placement_key": "homepage_sidebar",
+      "placement_name": "Homepage Sidebar Desktop (300x250)",
+      "ad_code": "<!-- Adsterra 300x250 Medium Rectangle Slot -->\n<div class=\"adsterra-banner flex items-center justify-center p-6 text-xs text-slate-400 bg-slate-50 border border-dashed border-slate-300 rounded-lg min-h-[250px]\">\n  <span>Adsterra 300x250 Sidebar Slot</span>\n</div>",
+      "is_enabled": true,
+      "sort_order": 3,
+      "device_target": "desktop",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "ad-4",
+      "placement_key": "product_details",
+      "placement_name": "Product Details Page Sticky/In-Page Ad",
+      "ad_code": "<!-- Adsterra Product Page Sponsored Widget -->\n<div class=\"adsterra-banner flex items-center justify-center p-4 text-xs text-slate-400 bg-slate-50 border border-dashed border-slate-300 rounded-lg\">\n  <span>Adsterra Product Page Recommendation Banner</span>\n</div>",
+      "is_enabled": true,
+      "sort_order": 4,
+      "device_target": "all",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    },
+    {
+      "id": "ad-5",
+      "placement_key": "footer",
+      "placement_name": "Footer Leaderboard Banner",
+      "ad_code": "<!-- Adsterra Footer Ad Banner Slot -->\n<div class=\"adsterra-banner flex items-center justify-center p-3 text-xs text-slate-400 bg-slate-50 border border-dashed border-slate-300 rounded-lg\">\n  <span>Adsterra Footer Banner Slot</span>\n</div>",
+      "is_enabled": true,
+      "sort_order": 5,
+      "device_target": "all",
+      "updated_at": "2026-10-25T06:41:40.654Z"
+    }
+  ],
+  "settings": {
+    "site_name": "Halka Price",
+    "tagline": "Low Price, Smart Choice!",
+    "currency_symbol": "৳",
+    "contact_email": "support@halkaprice.com",
+    "contact_phone": "+880 1712-345678",
+    "whatsapp_number": "+8801712345678",
+    "facebook_url": "https://facebook.com/halkaprice.bd",
+    "daraz_store_url": "https://www.daraz.com.bd",
+    "affiliate_disclosure": "Some links on Halka Price may be affiliate links. We may earn a commission when you purchase through these links, at no additional cost to you. All prices and discounts are based on Daraz Bangladesh listings.",
+    "announcement_bar_text": "🔥 Halka Price: Lowest Verified Deals in Bangladesh! Save Up to 70% Today!",
+    "announcement_bar_enabled": true
+  },
+  "login_attempts": {
+    "127.0.0.1": {
+      "count": 1,
+      "last_attempt": 1792910512912
+    }
+  }
+}

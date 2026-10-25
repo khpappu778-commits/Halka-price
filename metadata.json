@@ -1,0 +1,6 @@
+{
+  "name": "Halka Price",
+  "description": "Low Price, Smart Choice! The premier Bangladesh shopping deals platform showcasing verified low-price deals, discounts, and offers from Daraz Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
